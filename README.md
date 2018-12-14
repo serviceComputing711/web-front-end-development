@@ -6,4 +6,4 @@
 |吴啸林|16340241|负责服务器后端API|
 |王永杰|16340227|负责服务器后端数据库|
 
-## 前端仓库地址：https://github.com/wuyy1234/web-front-end-development
+## 前端代码及报告：https://github.com/wuyy1234/web-front-end-development
