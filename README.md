@@ -1,4 +1,4 @@
-# web-front-end-development
+# 基于 RESTful 的 SWAPI 实现
 ----
 |成员|学号|负责内容|
 |:--:|:--:|:--:|
@@ -8,3 +8,5 @@
 
 
 ## 前端代码及报告：https://github.com/wuyy1234/web-front-end-development
+## 后端API设计代码及报告：https://github.com/serviceComputing711/MySWAPI
+## 后端数据库代码及报告：https://github.com/serviceComputing711/MySWAPI
